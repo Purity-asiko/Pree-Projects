@@ -54,8 +54,116 @@
 - 📫 How to reach me **purityasiko302@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/11Mn39SN-_oRCExEpo1FqF5XtJL3gUtSb/view?usp=sharing](https://drive.google.com/file/d/11Mn39SN-_oRCExEpo1FqF5XtJL3gUtSb/view?usp=sharing)
-
 - ⚡ Fun fact **I enjoy turning messy data into clean insights and dashboards.**
+
+  ## Skills & Tools
+- Python
+- Pandas
+- NumPy
+- Scikit-Learn
+- Matplotlib / Seaborn
+- Jupyter Notebook
+- Machine Learning
+- Data Cleaning & Visualization
+
+## Projects
+
+### 1. Dataset Data Analysis
+**Description:** Explored and analyzed datasets to uncover trends and insights.  
+**Tools:** Python, Pandas, Matplotlib, Seaborn  
+**Outcome:** Developed skills in data cleaning, visualization, and descriptive analysis.
+
+---
+
+### 2. Deep Learning with Neural Networks
+**Description:** Built and trained neural network models for predictive tasks.  
+**Tools:** Python, TensorFlow, Keras  
+**Outcome:** Learned deep learning model architecture and performance evaluation.
+
+---
+
+### 3. House Prediction
+**Description:** Predicted house prices using regression models.  
+**Tools:** Python, Scikit-Learn  
+**Outcome:** Practiced feature engineering, regression analysis, and model evaluation.
+
+---
+
+### 4. House Price Prediction
+**Description:** Another model for predicting house prices with improved preprocessing.  
+**Tools:** Python, Scikit-Learn  
+**Outcome:** Achieved higher accuracy by optimizing feature selection.
+
+---
+
+### 5. Image Classification with TL
+**Description:** Implemented transfer learning for image classification tasks.  
+**Tools:** Python, TensorFlow, Keras  
+**Outcome:** Gained practical experience with pre-trained models and image datasets.
+
+---
+
+### 6. IMDB Movie Reviews
+**Description:** Analyzed movie review data to extract insights and perform basic sentiment tasks.  
+**Tools:** Python, NLP libraries  
+**Outcome:** Learned text preprocessing and exploratory data analysis on textual data.
+
+---
+
+### 7. Iris Flower Classification
+**Description:** Classified iris flower species using classic ML algorithms.  
+**Tools:** Python, Scikit-Learn  
+**Outcome:** Practiced supervised learning, model training, and evaluation metrics.
+
+---
+
+### 8. LoanGuardian: AI Driven Financial Risk Assessment
+**Description:** Built a platform for assessing financial risk using machine learning.  
+**Tools:** Python, Scikit-Learn  
+**Outcome:** Applied predictive modeling to a real-world financial dataset.
+
+---
+
+### 9. ML with Classification Model
+**Description:** Developed and evaluated classification models on various datasets.  
+**Tools:** Python, Scikit-Learn  
+**Outcome:** Gained experience with model selection, training, and validation.
+
+---
+
+### 10. Mall Customers
+**Description:** Analyzed mall customer data for segmentation and insights.  
+**Tools:** Python, Pandas, Matplotlib, Seaborn  
+**Outcome:** Learned clustering and exploratory analysis techniques.
+
+---
+
+### 11. Sentiment Analysis with BERT (IMDB Dataset)
+**Description:** Performed advanced sentiment analysis using BERT.  
+**Tools:** Python, Transformers library  
+**Outcome:** Learned state-of-the-art NLP techniques and model fine-tuning.
+
+---
+
+### 12. Stock Price Visualization
+**Description:** Visualized stock price trends and patterns over time.  
+**Tools:** Python, Matplotlib, Pandas  
+**Outcome:** Built interactive visualizations for time-series data.
+
+---
+
+### 13. SynthHealth
+**Description:** Explored synthetic health datasets to simulate real-world scenarios.  
+**Tools:** Python, Pandas  
+**Outcome:** Practiced data simulation, analysis, and cleaning.
+
+---
+
+### 14. Threats Entry
+**Description:** Investigated and analyzed threat datasets for patterns and anomalies.  
+**Tools:** Python, Pandas  
+**Outcome:** Improved skills in anomaly detection and dataset exploration.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
